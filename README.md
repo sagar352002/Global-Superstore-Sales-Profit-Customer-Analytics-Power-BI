@@ -2,7 +2,7 @@
 
 **Interactive Power BI dashboard that transforms 4 years of retail data into actionable business insights for strategic decision-making.**
 
-![Dashboard Overview](first.png)
+![Dashboard Overview](ui/first.png)
 
 ---
 
